@@ -103,7 +103,7 @@ I’m Tomás Nave, a 22-year-old graduate in Computer Engineering from Universid
     title="Laravel"
     width="30px" 
     style="padding-right: 10px;" 
-    src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg)" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
 />
 <img 
     align="left" 
