@@ -4,9 +4,23 @@
 
 I’m Tomás Nave, a 22-year-old graduate in Computer Engineering from Universidade Lusófona de Humanidades e Tecnologias in Lisbon. I am passionate about building robust, scalable, and efficient software systems, and I am actively pursuing a career as a Software Engineer. Throughout my academic journey and final year project, I developed a strong interest in Cloud Computing, DevOps, and infrastructure automation — areas in which I am continuously expanding my skills and practical experience. I am highly motivated to contribute to teams that value clean architecture, continuous improvement, and the adoption of modern engineering practices to deliver impactful and reliable digital solutions.
 
+<p align="left">
+    <a href="https://www.linkedin.com/in/tom%C3%A1s-nave-26733b277/">
+        <img 
+            alt="Linkedin" 
+            title="Linkedin" 
+            src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=linkedin222"
+        />
+    </a>
+    <a href="https://www.youtube.com/@larissakich">
+        <img 
+            alt="youtube views" 
+            title="Vizualizações no YouTube" 
+            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
+        />
+    </a> 
+</p>
 
-[![my repos][15]][15]
-[15]: https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo
 
 ---
 
