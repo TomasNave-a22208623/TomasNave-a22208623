@@ -134,7 +134,7 @@ I’m Tomás Nave, a 22-year-old graduate in Computer Engineering from Universid
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomasNave-a22208623&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomasNave-a22208623&title_color=1780d0&icon_color=00a8f3&text_color=9f9f9f&bg_color=151515" 
   />
 
 </p>
