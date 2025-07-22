@@ -14,9 +14,9 @@ I’m Tomás Nave, a 22-year-old graduate in Computer Engineering from Universid
     </a>
     <a href="mailto:tomasdasilvanave@gmail.com">
     <img 
+      src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" 
       alt="Email" 
-      title="Enviar email" 
-      src="https://custom-icon-badges.demolab.com/badge/Email-red?style=for-the-badge&logo=mail&logoColor=white"
+      title="Enviar email"
     />
   </a>
 </p>
