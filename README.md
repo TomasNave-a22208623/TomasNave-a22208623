@@ -6,7 +6,7 @@ I’m Tomás Nave, a 22-year-old graduate in Computer Engineering from Universid
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### ⚒️ Linguagens e Tecnologias
 
 
 <img 
