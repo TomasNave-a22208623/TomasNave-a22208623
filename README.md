@@ -9,18 +9,17 @@ I’m Tomás Nave, a 22-year-old graduate in Computer Engineering from Universid
         <img 
             alt="Linkedin" 
             title="Linkedin" 
-            src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=linkedin222"
+            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-blue?style=for-the-badge&logoColor=white&logo=linkedin222"
         />
     </a>
-    <a href="https://www.youtube.com/@larissakich">
-        <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
-    </a> 
+    <a href="mailto:tomasdasilvanave@gmail.com">
+    <img 
+      alt="Email" 
+      title="Enviar email" 
+      src="https://custom-icon-badges.demolab.com/badge/Email-red?style=for-the-badge&logo=mail&logoColor=white"
+    />
+  </a>
 </p>
-
 
 ---
 
