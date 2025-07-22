@@ -13,7 +13,7 @@ I’m Tomás Nave, a 22-year-old graduate in Computer Engineering from Universid
     align="left" 
     alt="TypeScript"
     title="TypeScript" 
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
 />
@@ -21,7 +21,7 @@ I’m Tomás Nave, a 22-year-old graduate in Computer Engineering from Universid
     align="left" 
     alt="Python" 
     title="Python"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
@@ -29,7 +29,7 @@ I’m Tomás Nave, a 22-year-old graduate in Computer Engineering from Universid
     align="left" 
     alt="HTML"
     title="HTML" 
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
@@ -37,7 +37,7 @@ I’m Tomás Nave, a 22-year-old graduate in Computer Engineering from Universid
     align="left" 
     alt="CSS" 
     title="CSS"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
@@ -53,7 +53,7 @@ I’m Tomás Nave, a 22-year-old graduate in Computer Engineering from Universid
     align="left" 
     alt="React"
     title="React" 
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original-wordmark.svg"
 />
@@ -61,7 +61,7 @@ I’m Tomás Nave, a 22-year-old graduate in Computer Engineering from Universid
     align="left" 
     alt="Next.js" 
     title="Next.js"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" 
 />
@@ -69,7 +69,7 @@ I’m Tomás Nave, a 22-year-old graduate in Computer Engineering from Universid
     align="left" 
     alt="Bootstrap"
     title="Bootstrap" 
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original-wordmark.svg" 
 />
@@ -77,7 +77,7 @@ I’m Tomás Nave, a 22-year-old graduate in Computer Engineering from Universid
     align="left" 
     alt="Tailwind" 
     title="Tailwind"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
 />
@@ -85,7 +85,7 @@ I’m Tomás Nave, a 22-year-old graduate in Computer Engineering from Universid
     align="left" 
     alt="SASS" 
     title="SASS"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
 />
@@ -93,7 +93,7 @@ I’m Tomás Nave, a 22-year-old graduate in Computer Engineering from Universid
     align="left" 
     alt="PHP" 
     title="PHP"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" 
 />
@@ -101,7 +101,7 @@ I’m Tomás Nave, a 22-year-old graduate in Computer Engineering from Universid
     align="left" 
     alt="Laravel" 
     title="Laravel"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
 />
@@ -109,7 +109,7 @@ I’m Tomás Nave, a 22-year-old graduate in Computer Engineering from Universid
     align="left" 
     alt="Git" 
     title="Git"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
