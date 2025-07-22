@@ -63,7 +63,7 @@ I’m Tomás Nave, a 22-year-old graduate in Computer Engineering from Universid
     title="React" 
     width="35px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original-wordmark.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg"
 />
 <img 
     align="left" 
@@ -79,7 +79,7 @@ I’m Tomás Nave, a 22-year-old graduate in Computer Engineering from Universid
     title="Bootstrap" 
     width="35px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original-wordmark.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg 
 />
 <img 
     align="left" 
