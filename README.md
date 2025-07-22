@@ -9,7 +9,7 @@ I’m Tomás Nave, a 22-year-old graduate in Computer Engineering from Universid
     <img 
       alt="Linkedin" 
       title="Linkedin" 
-      src="https://custom-icon-badges.demolab.com/badge/LinkedIn-blue?style=for-the-badge&logoColor=white&logo=linkedin222"
+      src="https://custom-icon-badges.demolab.com/badge/LinkedIn-blue?style=for-the-badge&logoColor=white&logo=linkedin555"
     />
   </a>
   <a href="mailto:tomasdasilvanave@gmail.com" style="margin-left: 8px;">
