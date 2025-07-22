@@ -142,7 +142,7 @@ I’m Tomás Nave, a 22-year-old graduate in Computer Engineering from Universid
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/?username=TomasNave-a22208623&show_icons=true&title_color=1780d0&icon_color=00a8f3&text_color=ffffff&border_color=151515&bg_color=151515&include_all_commits=true" 
+    src="https://github-readme-stats.vercel.app/api/?username=TomasNave-a22208623&show_icons=true&title_color=1780d0&icon_color=00a8f3&text_color=ffffff&border_color=0d1117&bg_color=0d1117&include_all_commits=true" 
   />
 
 
@@ -150,7 +150,7 @@ I’m Tomás Nave, a 22-year-old graduate in Computer Engineering from Universid
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomasNave-a22208623&layout=compact&title_color=1780d0&border_color=151b23&icon_color=00a8f3&text_color=ffffff&bg_color=151b23&langs_count=10" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomasNave-a22208623&layout=compact&title_color=1780d0&border_color=0d1117&icon_color=00a8f3&text_color=ffffff&bg_color=0d1117&langs_count=10" 
   />
 
 </p>
