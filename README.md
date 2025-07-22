@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Tomás Nave
+# 🧑‍💻 Tomás Nave
 
 **Computer Engineering Graduate | BSc in Computer Engineering from Universidade Lusófona – Centro Universitário de Lisboa**
 
