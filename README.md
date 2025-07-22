@@ -55,7 +55,7 @@ I’m Tomás Nave, a 22-year-old graduate in Computer Engineering from Universid
     title="React" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original-wordmark.svg"
 />
 <img 
     align="left" 
@@ -63,7 +63,7 @@ I’m Tomás Nave, a 22-year-old graduate in Computer Engineering from Universid
     title="Next.js"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" 
 />
 <img 
     align="left" 
