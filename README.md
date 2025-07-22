@@ -71,7 +71,7 @@ I’m Tomás Nave, a 22-year-old graduate in Computer Engineering from Universid
     title="Bootstrap" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original-wordmark.svg" 
 />
 <img 
     align="left" 
@@ -79,7 +79,7 @@ I’m Tomás Nave, a 22-year-old graduate in Computer Engineering from Universid
     title="Tailwind"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
 />
 <img 
     align="left" 
