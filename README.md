@@ -5,16 +5,16 @@
 I’m Tomás Nave, a 22-year-old graduate in Computer Engineering from Universidade Lusófona de Humanidades e Tecnologias in Lisbon. I am passionate about building robust, scalable, and efficient software systems, and I am actively pursuing a career as a Software Engineer. Throughout my academic journey and final year project, I developed a strong interest in Cloud Computing, DevOps, and infrastructure automation — areas in which I am continuously expanding my skills and practical experience. I am highly motivated to contribute to teams that value clean architecture, continuous improvement, and the adoption of modern engineering practices to deliver impactful and reliable digital solutions.
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/tom%C3%A1s-nave-26733b277/">
-        <img 
-            alt="Linkedin" 
-            title="Linkedin" 
-            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-blue?style=for-the-badge&logoColor=white&logo=linkedin222"
-        />
-    </a>
-    <a href="mailto:tomasdasilvanave@gmail.com">
+  <a href="https://www.linkedin.com/in/tom%C3%A1s-nave-26733b277/">
     <img 
-      src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" 
+      alt="Linkedin" 
+      title="Linkedin" 
+      src="https://custom-icon-badges.demolab.com/badge/LinkedIn-blue?style=for-the-badge&logoColor=white&logo=linkedin222"
+    />
+  </a>
+  <a href="mailto:tomasdasilvanave@gmail.com" style="margin-left: 8px;">
+    <img 
+      src="https://custom-icon-badges.demolab.com/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" 
       alt="Email" 
       title="Enviar email"
     />
