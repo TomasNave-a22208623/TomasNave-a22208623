@@ -4,6 +4,10 @@
 
 I’m Tomás Nave, a 22-year-old graduate in Computer Engineering from Universidade Lusófona de Humanidades e Tecnologias in Lisbon. I am passionate about building robust, scalable, and efficient software systems, and I am actively pursuing a career as a Software Engineer. Throughout my academic journey and final year project, I developed a strong interest in Cloud Computing, DevOps, and infrastructure automation — areas in which I am continuously expanding my skills and practical experience. I am highly motivated to contribute to teams that value clean architecture, continuous improvement, and the adoption of modern engineering practices to deliver impactful and reliable digital solutions.
 
+
+[![my repos][15]][15]
+[15]: https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo
+
 ---
 
 ### 🧰 Languages and Tools
