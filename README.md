@@ -9,7 +9,7 @@ I’m Tomás Nave, a 22-year-old graduate in Computer Engineering from Universid
         <img 
             alt="Linkedin" 
             title="Linkedin" 
-            src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=linkedin222&label=Inscreva-se"
+            src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=linkedin222&label=Linkedin"
         />
     </a>
     <a href="https://www.youtube.com/@larissakich">
